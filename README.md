@@ -1,4 +1,4 @@
-**Hotel Performance Insights using Power BI
+Hotel Performance Insights using Power BI
 Overview
 This Power BI project analyzes hotel operations using various metrics derived from hotel booking data. The analysis helps assess hotel performance across multiple dimensions, such as total revenue, occupancy percentage, and weekend trends. The project emphasizes key performance indicators (KPIs) critical for the hotel industry, including Revenue per Available Room (RevPAR), Average Daily Rate (ADR), and Occupancy Rate (OCC).
 
@@ -16,7 +16,7 @@ Check-in/Check-out Dates: The dates of guest arrival and departure.
 Number of Guests: The total number of guests for each booking.
 Room Category: The type/category of room booked (e.g., standard, deluxe, suite).
 Booking Category: Type of booking (e.g., online, direct, corporate).
-Booking Status: Whether the booking was confirmed, canceled, or no-show.
+Booking Status: Whether the booking was confirmed, canceled, or a no-show.
 Key Metrics
 1. Revenue per Available Room (RevPAR)
 A key performance metric to assess how much revenue each available room generates.
@@ -50,5 +50,4 @@ Occupancy Trends: Identify peak days, such as weekends, and measure overall occu
 Room Utilization Efficiency: Monitor how effectively the hotel utilizes its rooms, accounting for booked vs. utilized nights.
 Project Tools
 Power BI: For creating dashboards, visualizing data, and generating insights.
-Excel/CSV: Used as the primary data source, containing the hotel’s booking and revenue data.
-**
+Excel/CSV: Used as the primary data source, containing the hotel’s booking and revenue data
